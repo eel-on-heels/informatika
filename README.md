@@ -9,8 +9,6 @@
 
 <section>
   <Satura rādītājs
-
-Skolas absolventi>
     <ul>
       <li><a href="#vesture">Vēsture</a></li>
       <li><a href="#skola">Skola</a></li>
