@@ -170,7 +170,7 @@ Skolas absolventi.
 </section>
 
 <footer>
-  <p>download-6.jpg</p>
+  <li><a href="download-6.jpg">https://r1g.edu.lv</a></li>
 </footer>
 
 </body>
