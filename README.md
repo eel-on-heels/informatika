@@ -1,4 +1,3 @@
-skola.html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -71,11 +70,6 @@ footer {
 </style>
 </head>
 <body>
-
-<h2>id=vesture</h2>
-<p>In this example, we have created a header, two columns/boxes and a footer. On smaller screens, the columns will stack on top of each other.</p>
-<p>Resize the browser window to see the responsive effect.</p>
-<p><strong>Note:</strong> Flexbox is not supported in Internet Explorer 10 and earlier versions.</p>
 
 <header>
   <h2>Rīgas Valsts 1. ģimnāzija</h2>
@@ -170,12 +164,13 @@ līdz 1804. — rektors Johans Augusts Albanuss
 
 Skolas absolventi.
 
-Tomass Dukurs, Valters Frīdenbergs, Toms Skujiņš, Daina Taimiņa</p>
+ <ul>
+      <li><a href="#Rainis">https://enciklopedija.lv/skirklis/55869-Rainis</a></li>Tomass Dukurs, Valters Frīdenbergs, Toms Skujiņš, Daina Taimiņa</p>
   </article>
 </section>
 
 <footer>
-  <p>Footer</p>
+  <p></p>
 </footer>
 
 </body>
