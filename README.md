@@ -170,7 +170,7 @@ Skolas absolventi.
 </section>
 
 <footer>
-  <p></p>
+  <p>download-6.jpg</p>
 </footer>
 
 </body>
