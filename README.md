@@ -10,18 +10,14 @@
 <section>
   <Satura rādītājs
 
-Vēsture
-
-Skolas nosaukumu maiņas
-
-Zināmie skolas vadītāji (1229—1804)
-
 Skolas absolventi>
     <ul>
       <li><a href="#vesture">Vēsture</a></li>
       <li><a href="#skola">Skola</a></li>
+      <li><a href="#skolas nisaukumu mainas">Skolas nosaukumu maiņas</a></li>
+      <li><a href="#zinamie skolas vaditaji">Zināmie skolas vadītāji (1229—1804)</a></li>
+      <li><a href="#skolas absolventi">Skolas absolventi</a></li>
     </ul>
-  </nav>
   
   <article>
     <h1>Vēsture.</h1>
