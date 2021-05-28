@@ -1,12 +1,9 @@
-</head>
-<body>
-
 <header>
   <h2>Rīgas Valsts 1. ģimnāzija</h2>
 </header>
 
 <section>
-  <Satura rādītājs>
+  <p><Satura rādītājs></p>
     <ul>
       <li><a href="#vesture">Vēsture</a></li>
       <li><a href="#skola">Skola</a></li>
