@@ -24,81 +24,79 @@
 <p>Skolas pastāvēšanai iespējams izsekot līdz pat 1211. gadam, kad bīskaps Alberts Rīgā nodibināja Svētās Marijas katedrāli un pie tās — Livonijas bīskapijas domkapitula klosteri. Skola atradās Doma baznīcas krustejā un bija paredzēta katoļu garīdznieku sagatavošanai. Zviedru laikā ar Zviedrijas karaļa Gustava II Ādolfa lēmumu 1631. gadā uz Doma skolas bāzes izveidoja Rīgas Akadēmisko ģimnāziju. 1804. gadā izglītības reformu laikā Domskolu pārveidoja par Rīgas apriņķa galveno mācību iestādi — Rīgas 1. apriņķa skolu, 1861. gadā — par Rīgas reālģimnāziju, kurā mācījās arī Vilhelms Ostvalds (1864—1871), bet 1873. gadā — par Rīgas Pilsētas ģimnāziju. 1874. gadā pēc Rīgas galvenā arhitekta Johana Daniela Felsko projekta tika uzcelta tagadējā skolas ēka Raiņa bulvārī 8. Vecā skolas ēka pie Doma baznīcas tika nojaukta 1888. gadā, būvējot pilsētas muzeju. Rusifikācijas periodā 1894. gadā skolu pārveidoja par klasisko ģimnāziju, vēlāk — par valsts ģimnāziju (Государственная гимназия) ar krievu mācību valodu. 1919. gadā Stučkas valdība pārdēvēja to par Rīgas 1. vidusskolu ar latviešu mācību valodu, Latvijas Republikas laikā tika atjaunota Rīgas pilsētas 1. ģimnāzija. Pēc Latvijas okupācijas skolu atkal pārdēvēja par Rīgas 1. vidusskolu un 1944. gadā nosauca tās pirmā direktora Leona Paegles vārdā. Pēc Latvijas Republikas atjaunošanas skola atguva Rīgas 1. ģimnāzijas vārdu, bet kopš 1996. gada tiek dēvēta par Rīgas Valsts 1. ģimnāziju. Meklējot datus par skolas vēsturi, jāņem vērā, ka laika posmā, kad skolu sauca par Rīgas pilsētas 1. ģimnāziju, pastāvēja arī Rīgas Valsts 1. ģimnāzija, kas nav saistīta ar šajā rakstā minēto skolu.</p>
     <li><h2 id=”skolas3”>Skolas nosaukumu maiņas.</a></li>
 
-Pēc Latvijas Valsts arhīva datiem, Rīgas Valsts 1. ģimnāzija piedzīvojusi vismaz 15 dažādus nosaukumus:
+<p>Pēc Latvijas Valsts arhīva datiem, Rīgas Valsts 1. ģimnāzija piedzīvojusi vismaz 15 dažādus nosaukumus:</p>
 
-1211.—1528. — Domkapitula klostera skola
+<p>1211.—1528. — Domkapitula klostera skola</p>
 
-1528.—1631. — Rīgas pilsētas Domskola
+<p>1528.—1631. — Rīgas pilsētas Domskola</p>
 
-1631.—1710. — Rīgas Akadēmiskā ģimnāzija
+<p>1631.—1710. — Rīgas Akadēmiskā ģimnāzija</p>
 
-1711.—1804. — Rīgas Domskola (klasiskā ģimnāzija)
+<p>1711.—1804. — Rīgas Domskola (klasiskā ģimnāzija)</p>
 
-1804.—1860. — Rīgas 1. apriņķa skola
+<p>1804.—1860. — Rīgas 1. apriņķa skola</p>
 
-1861.—1873. — Rīgas Reālģimnāzija
+<p>1861.—1873. — Rīgas Reālģimnāzija</p>
 
-1873.—1894. — Rīgas Pilsētas ģimnāzija ar reālskolas un ģimnāzijas klasēm
+<p>1873.—1894. — Rīgas Pilsētas ģimnāzija ar reālskolas un ģimnāzijas klasēm</p>
 
-1894.—1895. — 8 klašu klasiskā ģimnāzija
+<p>1894.—1895. — 8 klašu klasiskā ģimnāzija</p>
 
-1896.—1919. — Valsts ģimnāzija
+<p>1896.—1919. — Valsts ģimnāzija</p>
 
-1919.—1920. — 1. vidusskola
+<p>1919.—1920. — 1. vidusskola</p>
 
-1920.—1940. — Rīgas pilsētas 1. ģimnāzija
+<p>1920.—1940. — Rīgas pilsētas 1. ģimnāzija</p>
 
-1940.—1944. — Rīgas 1. vidusskola
+<p>1940.—1944. — Rīgas 1. vidusskola</p>
 
-1944.—1990. — Ar Darba Sarkanā Karoga ordeni apbalvotā Rīgas L. Paegles 1. vidusskola
+<p>1944.—1990. — Ar Darba Sarkanā Karoga ordeni apbalvotā Rīgas L. Paegles 1. vidusskola</p>
 
-1990.—1996. — Rīgas 1. ģimnāzija
+<p>1990.—1996. — Rīgas 1. ģimnāzija</p>
 
-1996.—pašlaik — Rīgas Valsts 1. ģimnāzija
+<p>1996.—pašlaik — Rīgas Valsts 1. ģimnāzija</p>
 
 <li><h2 id=”zinamie”>Zināmie skolas vadītāji (1229—1804)</a></li>
 
-ap 1239. — mācību pārzinis (scholasticus) Domkapitula kanoniķis Heinrihs
+<p>ap 1239. — mācību pārzinis (scholasticus) Domkapitula kanoniķis Heinrihs</p>
 
-1528.—1538. — rektors Jakobs Batuss (Jacobus Battus, miris 1546)
+<p>1528.—1538. — rektors Jakobs Batuss (Jacobus Battus, miris 1546)</p>
 
-no 1538. — rektors Retgers Pistorijs (Bekers)
+<p>no 1538. — rektors Retgers Pistorijs (Bekers)</p>
 
-1554.—1561. — rektors Hermanis Vilkens (Vilikinds, Vitekinds)
+<p>1554.—1561. — rektors Hermanis Vilkens (Vilikinds, Vitekinds)</p>
 
-ap 1576. — rektors Georgs Marsovs
+<p>ap 1576. — rektors Georgs Marsovs</p>
 
-1579.—1589. — rektors Heinrihs Mellers
+<p>1579.—1589. — rektors Heinrihs Mellers</p>
 
-1589.—1596. — rektors un inspektors Johans Rīvijs
+<p>1589.—1596. — rektors un inspektors Johans Rīvijs</p>
 
-no 1631. — ģimnāzijas inspektors Hermanis Samsons
+<p>no 1631. — ģimnāzijas inspektors Hermanis Samsons</p>
 
-no 1669. — rektors Georgs Lauterbahs
+<p>no 1669. — rektors Georgs Lauterbahs</p>
 
-no 1681. — rektors Mihaels Pinsderfers (Pinsdörffer)
+<p>no 1681. — rektors Mihaels Pinsderfers (Pinsdörffer)</p></p>
 
-1755.—1765. — rektors un inspektors Johans Gothelfs Lindners
+<p>1755.—1765. — rektors un inspektors Johans Gothelfs Lindners
 
-1765.—1780. — rektors Gotlībs Šlēgels
+<p>1765.—1780. — rektors Gotlībs Šlēgels</p>
 
-1780.—1787. — rektors Karls Filips Mihaels Snells
+<p>1780.—1787. — rektors Karls Filips Mihaels Snells</p>
 
-no 1788. — rektors Kārlis Gotlobs Zontāgs
+<p>no 1788. — rektors Kārlis Gotlobs Zontāgs</p>
 
-līdz 1804. — rektors Johans Augusts Albanuss
+<p>līdz 1804. — rektors Johans Augusts Albanuss</p>
 
 <li><h2 id="#skolas absolventi">Skolas absolventi</a></li>
 
  <ul>
-      <li><a href="#Rainis">https://enciklopedija.lv/skirklis/55869-Rainis</a></li>Tomass Dukurs, Valters Frīdenbergs, Toms Skujiņš, Daina Taimiņa</p>
+      <li><a href="#Rainis">https://enciklopedija.lv/skirklis/55869-Rainis</a></li> Tomass Dukurs, Valters Frīdenbergs, Toms Skujiņš, Daina Taimiņa</p>
   </article>
 </section>
 
 <footer>
   <li><a href="download-6.jpg">https://r1g.edu.lv</a></li>
 </footer>
-
-</body>
 </html>
 
